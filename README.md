@@ -1,0 +1,1 @@
+The blog is live [here](https://robnetzke.com)

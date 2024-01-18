@@ -9,7 +9,7 @@ isPublish: true
 ## The Background
 
 The [Cyber Resilience Act] was passed by the EU recently, and it puts a slew of requirements and liabilities on developers.
-In typical policy-maker fashion, the actual impact of the regulation will be the opposite of the intended effect. The goal from the EU was to reduce cybersecurity vulnerabilites, 
+In typical policy-maker fashion, the actual impact of the regulation will be the opposite of the intended effect. The goal from the EU regulators was to reduce cybersecurity vulnerabilites, 
 but devs will just stop contributing to projects or leave Europe.
 
 ## Article 16
